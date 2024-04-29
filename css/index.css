@@ -1,0 +1,43 @@
+body{
+    background-color: #EEF2F7;
+}
+
+.pd-back-coler{
+    background-color: #2C3E50;
+}
+.pd-note-but{
+    background-color: #43c9b4;
+}
+.pd-note-but:hover{
+    background-color: #43c9b585;
+}
+.pd-github-btn{
+    background-color: #F7F7F7;
+}
+.pd-github-btn:hover{
+    background-color: #e1e0e0;
+}
+.pd-insta-btn{
+    background-color: #F7F7F7;
+}
+.pd-insta-btn:hover{
+    background-color: #e1e0e0;
+}
+.pd-codepen-btn{
+    background-color: #DFDFDF;
+}
+.pd-codepen-btn:hover{
+    background-color: #a9a9a9;
+}
+
+.pd-marge-bot{
+    margin-bottom: 3rem;
+}
+
+.label { 
+    margin-right: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #777777;
+}

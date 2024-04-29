@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- ▼▼▼ BootStrap読み込み ▼▼▼ -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.min.css" integrity="sha384-fFxL8wXRpg9gVqGpY+URMtLr3fLL0WBbo4NBQ+IWwMDYjIjI5VQ46XlJm5+BUlXJ" crossorigin="anonymous">
+	<link href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" rel="stylesheet">
+	<!-- ▲▲▲ BootStrap読み込み ▲▲▲ -->
+	<link href="./css/reset.css" rel="stylesheet">
+	<link href="./css/index.css" rel="stylesheet">
+	<title>Document</title>
+</head>
+
+<body>
+	<header>
+		<nav class="navbar navbar-expand-lg navbar-dark pd-back-coler">
+			<div class="container">
+				<a class="navbar-brand" href="#">
+					<img src="./img/sample_logo.png" width="60" height="60" class="d-inline-block align-top mr-1" alt="Logo">
+					Sample
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="navbar-collapse collapse" id="navbar">
+					<ul class="navbar-nav mr-auto">
+						<li class="nav-item active">
+							<a class="nav-link" href="./">Top <span class="sr-only">(current)</span></a>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Live demo
+							</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="#">Japanese Page</a>
+							<a class="dropdown-item" href="#">English Page</a>
+						</div>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Download</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Wiki</a>
+						</li>
+					</ul>
+					<div class="form-inline my-2 my-lg-0">
+						<a href="#" class="btn btn-outline-dark pd-note-but"><img src="./img/note_logo2.png" alt="note" width="24" height="24">note</a>
+						<a href="#" class="btn btn-outline-dark pd-github-btn"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"></a>
+						<a href="#" class="btn btn-outline-dark pd-insta-btn"><img src="./img/insta_logo.png" alt="instagram" width="100%" height="24"></a>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+	<section style="background-image: url(./img/bg_img1.png); background-repeat: no-repeat;">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-6 pe-5 mt-md-0">
+					<h2 class="display-1 text-uppercase">sample title</h2>
+					<p class="fs-4 my-4 pb-2">Sub title & message</p>
+					<div style="padding-bottom: 20px;">
+						<form id="form" class="d-flex align-items-center position-relative">
+							<input type="text" name="search" placeholder="検索" class="form-control bg-white border-0 rounded-4 shadow-none px-4 py-3 w-100">
+							<button class="btn btn-primary rounded-4 px-3 py-2 position-absolute align-items-center m-1 end-0">
+								<i class="bi bi-search-heart"></i>
+								<use href="#search"></use>
+							</button>
+						</form>
+					</div>
+				</div>
+				<div class="col-md-5" style="padding-left: 4rem;">
+					<img src="./img/img04.png" alt="img" class="img-fluid">
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="container">
+		<div class="row">
+			<div class="col-md-12 pt-3">
+				<h1 class="page-header">Collection of works</h1>
+			</div>
+			<hr class="mt-3 mb-5">
+		</div>
+		<div class="row product">
+			<div class="row product">
+				<div class="col-md-4">
+					<iframe width="100%" height="180" src="https://www.youtube.com/embed/fMmE8EzILdQ?si=MnqCEYY0QOu8hWF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				<div class="col-md-8">
+					<h2>production[1]</h2>
+					<p>
+						<span class="label label-default">Pyton</span>
+						<span class="label label-default">Django</span>
+						<span class="label label-default">機械学習</span>
+					</p>
+					<p>
+						<a>概要：</a><br/>
+						<a>コメント１</a><br/>
+						<a>コメント２</a><br/>
+						<div class="my-2">
+							<a href="#" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"></a>
+							<a href="#" class="btn btn-sm btn-outline-dark pd-codepen-btn pe-2"><img src="./img/codepen_logo.png" alt="gitHub" width="100%" height="24"></a>
+							<a href="#" class="btn btn-sm btn-outline-dark pd-github-btn pe-2">original</a>
+						</div>
+						
+					</p>
+				</div>
+				<hr style="padding-left: 3rem;">
+				<div class="col-md-4">
+					<img width="100%" height="180" src="./img/img03.png">
+				</div>
+				<div class="col-md-8">
+					<h2>production[2]</h2>
+					<p>
+						<span class="label label-default">Java</span>
+						<span class="label label-default">JSP</span>
+						<span class="label label-default">MySQL</span>
+					</p>
+					<p>
+						<a>概要：</a><br/>
+						<a>コメント１</a><br/>
+						<a>コメント２</a><br/>
+						<div class="my-2">
+							<a href="#" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"></a>
+							<a href="#" class="btn btn-sm btn-outline-dark pd-codepen-btn pe-2"><img src="./img/codepen_logo.png" alt="gitHub" width="100%" height="24"></a>
+							<a href="#" class="btn btn-sm btn-outline-dark pd-github-btn pe-2">original</a>
+						</div>
+					</p>
+				</div>
+				<hr style="padding-left: 3rem;">
+				<div class="col-md-4">
+					<img width="100%" height="180" src="./img/img02.png">
+				</div>
+				<div class="col-md-8">
+					<h2>production[3]</h2>
+					<p>
+						<span class="label label-default">Java</span>
+						<span class="label label-default">SpringBoot</span>
+						<span class="label label-default">React</span>
+					</p>
+					<p>
+						<a>概要：</a><br/>
+						<a>コメント１</a><br/>
+						<a>コメント２</a><br/>
+						<div class="my-2">
+							<a href="#" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"></a>
+							<a href="#" class="btn btn-sm btn-outline-dark pd-codepen-btn pe-2"><img src="./img/codepen_logo.png" alt="gitHub" width="100%" height="24"></a>
+							<a href="#" class="btn btn-sm btn-outline-dark pd-github-btn pe-2">original</a>
+						</div>
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+<!-- ▼▼▼ 外部script ▼▼▼ -->
+<!-- jQuery読み込み -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<!-- Propper.js読み込み -->
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<!-- BootstrapのJavascript読み込み -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<!-- ▲▲▲ 外部script ▲▲▲ -->
+<script src="./js/index.js" />
+</body>
+
+</html>
