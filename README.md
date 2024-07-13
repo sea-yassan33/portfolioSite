@@ -8,6 +8,7 @@
 
 - Python
   - Django
+  - Flask
 
 - Ruby
   - Ruby on Rails
@@ -15,6 +16,8 @@
 - JavaScript
   - Jquery
   - Vue.js
+  - React
+  - Next.js
 
 - SQL
   - MySQL
