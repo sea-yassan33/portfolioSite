@@ -1,0 +1,138 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 pt-3">
+            <h1 class="page-header">Collection of works</h1>
+        </div>
+    </div>
+    <div class="row product" id="">
+        <div class="row product">
+            <hr style="padding-left: 3rem;"/>
+            <div class="col-md-4">
+                <a href="https://next12-design.vercel.app/" target="_blank"><img src="https://i.gyazo.com/fc7702c9627e80e2da26efed53b64918.png" alt="Image from Gyazo" width="100%" height="220"/></a>
+            </div>
+            <div class="col-md-8">
+                <h2>Next.js-Design collection</h2>
+                <p>
+                    <span class="label label-default">Creat:24/07/13</span>
+                    <span class="label label-default">Last Update:24/07/13</span>
+                </p>
+                <p>
+                    <span class="label label-default">Next.js@12</span>
+                    <span class="label label-default">React</span>
+                    <span class="label label-default">CSS</span>
+                    <span class="label label-default">BootStrap</span>
+                </p>
+                <p>
+                    <a>概要：</a><br/>
+                    <a>Next.jsでの開発環境でデザインのテンプレート集のサイトを作成</a><br/>
+                    <div class="my-2">
+                        <a href="https://github.com/sea-yassan33/next12-design" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                        <a href="https://next12-design.vercel.app/" class="btn btn-sm btn-outline-dark pd-github-btn pe-2" target="_blank"><img src="./img/vercel_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div class="row product">
+            <hr style="padding-left: 3rem;"/>
+            <div class="col-md-4">
+                <a href="https://github.com/sea-yassan33/api-python"><img src="https://i.gyazo.com/cd060e3616ac8e87a75aec910fb59ef3.png" alt="Image from Gyazo" width="100%" height="220"/></a>
+            </div>
+            <div class="col-md-8">
+                <h2>Open data processing in python</h2>
+                <p>
+                    <span class="label label-default">Creat:24/04/27</span>
+                    <span class="label label-default">Last Update:24/07/11</span>
+                </p>
+                <p>
+                    <span class="label label-default">Python</span>
+                    <span class="label label-default">Flask</span>
+                    <span class="label label-default">pandas</span>
+                    <span class="label label-default">Matplotlib</span>
+                    <span class="label label-default">API</span>
+                    <span class="label label-default">React</span>
+                </p>
+                <p>
+                    <a>概要：</a><br/>
+                    <a>Pythonにてオープンデータの取得と処理、処理したデータをAPI(json形式)で渡すプログラムを作成</a><br/>
+                    <div class="my-2">
+                        <a href="https://github.com/sea-yassan33/api-python" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div class="row product">
+            <hr style="padding-left: 3rem;"/>
+            <div class="col-md-4">
+                <a href="https://gyazo.com/660d6e409e63d0c6d973428f67a8e330"><img src="https://i.gyazo.com/660d6e409e63d0c6d973428f67a8e330.png" alt="Image from Gyazo" width="100%" height="220"/></a>
+            </div>
+            <div class="col-md-8">
+                <h2>prediction_project</h2>
+                <p>
+                    <span class="label label-default">Creat:23/12/09</span>
+                    <span class="label label-default">Last Update:24/02/27</span>
+                </p>
+                <p>
+                    <span class="label label-default">Pyton</span>
+                    <span class="label label-default">Django</span>
+                    <span class="label label-default">機械学習</span>
+                </p>
+                <p>
+                    <a>概要：</a><br/>
+                    <a>様々なモデルを使用し予測アプリを作成</a><br/>
+                    <div class="my-2">
+                        <a href="https://github.com/sea-yassan33/prediction_project" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div class="row product" id="">
+            <hr style="padding-left: 3rem;"/>
+            <div class="col-md-4">
+                <img width="100%" height="220" src="./img/img03.png"/>
+            </div>
+            <div class="col-md-8">
+                <h2>Java Programming</h2>
+                <p>
+                    <span class="label label-default">Creat:23/11/27</span>
+                    <span class="label label-default">Update:24/05/01</span>
+                </p>
+                <p>
+                    <span class="label label-default">Java</span>
+                </p>
+                <p>
+                    <a>概要：Javaのコードおよびアルゴリズム集です</a><br/>
+                    <div class="my-2">
+                        <a href="https://qiita.com/sea_news_yass/items/788ed770d2807b723716" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/qiita_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                        <a href="https://github.com/sea-yassan33/JavaProgram" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div class="row product" id="">
+            <hr style="padding-left: 3rem;"/>
+            <div class="col-md-4">
+                <a href="https://gyazo.com/bc4fdae5eb2a2b135be9ae9d57a42920"><img src="https://i.gyazo.com/bc4fdae5eb2a2b135be9ae9d57a42920.gif" alt="Image from Gyazo" width="100%" height="220"/></a>
+            </div>
+            <div class="col-md-8">
+                <h2>enjex_app</h2>
+                <p>
+                    <span class="label label-default">Creat:22/11/17</span>
+                    <span class="label label-default">Last Update:23/01/16</span>
+                </p>
+                <p>
+                    <span class="label label-default">Ruby</span>
+                    <span class="label label-default">Ruby on Rails</span>
+                    <span class="label label-default">MySQL</span>
+                </p>
+                <p>
+                    <a>概要：エクササイズ動画を投稿し、ユーザー同士でシェアするアプリです。</a><br/>
+                    <a>運動習慣を身につけたい方を対象に手助けするアプリを作成したいと思いました。</a><br/>
+                    <a href="https://github.com/sea-yassan33/enjex/blob/main/README.md">詳細(README)</a><br/>
+                    <div class="my-2">
+                        <a href="https://github.com/sea-yassan33/enjex" class="btn btn-sm btn-outline-dark pd-github-btn pe-2"><img src="./img/github_logo.png" alt="gitHub" width="100%" height="24"/></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

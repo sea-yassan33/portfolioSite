@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Next.js-Design collection",
+        "createDate": "24/07/13",
+        "updateDate": "24/07/13",
+        "tags": ["Next.js@12", "React", "CSS", "Bootstrap"],
+        "description": "Next.jsでの開発環境でデザインのテンプレート集のサイトを作成",
+        "imageUrl": "https://i.gyazo.com/fc7702c9627e80e2da26efed53b64918.png",
+        "githubLink": "https://github.com/sea-yassan33/api-python",
+        "vercelLink": "https://next12-design.vercel.app/",
+        "qiitaLink": ""
+    },
+    {
+        "title": "Open data processing in python",
+        "createDate": "24/04/27",
+        "updateDate": "24/07/11",
+        "tags": ["Python", "Flask", "pandas", "Matplotlib", "API", "React"],
+        "description": "Pythonにてオープンデータの取得と処理、処理したデータをAPI(json形式)で渡すプログラムを作成",
+        "imageUrl": "https://i.gyazo.com/cd060e3616ac8e87a75aec910fb59ef3.png",
+        "githubLink": "https://github.com/sea-yassan33/api-python",
+        "vercelLink": "",
+        "qiitaLink": ""
+    },
+    {
+        "title": "Java Programming",
+        "createDate": "23/11/27",
+        "updateDate": "24/05/01",
+        "tags": ["Java"],
+        "description": "Javaのコードおよびアルゴリズム集です",
+        "imageUrl": "./img/img03.png",
+        "githubLink": "https://github.com/sea-yassan33/JavaProgram",
+        "vercelLink": "",
+        "qiitaLink": "https://qiita.com/sea_news_yass/items/788ed770d2807b723716"
+    },
+    {
+        "title": "enjex_app",
+        "createDate": "22/11/17",
+        "updateDate": "23/01/16",
+        "tags": ["Ruby","Ruby on Rails", "MySQL"],
+        "description": "エクササイズ動画を投稿し、ユーザー同士でシェアするアプリです。",
+        "imageUrl": "https://i.gyazo.com/bc4fdae5eb2a2b135be9ae9d57a42920.gif",
+        "githubLink": "https://github.com/sea-yassan33/enjex",
+        "vercelLink": "",
+        "qiitaLink": "https://qiita.com/sea_news_yass/items/788ed770d2807b723716"
+    }
+]
