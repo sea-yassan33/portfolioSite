@@ -48,7 +48,7 @@ function App() {
                             <h2>{work.title}</h2>
                             <p>
                                 <span className={`${styles.spanStyle}`}>Creat:{work.createDate}</span>
-                                <span className={`${styles.spanStyle}`}>Last Update:{work.updateDate}</span>
+                                <span className={`${styles.spanStyle}`}>Update:{work.updateDate}</span>
                             </p>
                             <p>
                                 {work.tags.map((tag, tagIndex) => (
