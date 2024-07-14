@@ -22,7 +22,7 @@ function App() {
 
     // コンポーネントのレンダリング
     return(
-        <section className="container">
+        <div className="container">
             <div className="row">
                 <div className="col-md-12 pt-3">
                     <h1 className="page-header">Collection of works</h1>
@@ -80,7 +80,7 @@ function App() {
                     </div>
                 </div>
             ))}
-        </section>
+        </div>
     );
 }
 
