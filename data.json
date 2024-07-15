@@ -47,6 +47,23 @@
         "qiitaLink": "https://qiita.com/sea_news_yass/items/788ed770d2807b723716"
     },
     {
+        "title": "Machine Learning and Django",
+        "createDate": "23/12/09",
+        "updateDate": "24/01/27",
+        "tags": [
+            "Pyton",
+            "Django",
+            "pandas",
+            "Matplotlib",
+            "scikit-learn"
+        ],
+        "description": "Pythonで機械学習を実装し、結果をブラウザに出力しました",
+        "imageUrl": "https://i.gyazo.com/c43f7243a43b0f8404bcce7eb2ee0571.png",
+        "githubLink": "https://github.com/sea-yassan33/prediction_project",
+        "vercelLink": "",
+        "qiitaLink": ""
+    },
+    {
         "title": "enjex_app",
         "createDate": "22/11/17",
         "updateDate": "23/01/16",
